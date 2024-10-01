@@ -9,7 +9,7 @@ This project centres on an electricity bill payment application that enhances us
 ## Tech Stack
 
 
-**Server:** Java, SpringBoot and spring JPA
+**Backend:** Java, SpringBoot and spring JPA
 
 **Database:** MySQL
 
